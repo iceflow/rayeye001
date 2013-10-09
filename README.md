@@ -6,7 +6,17 @@
 
 
 ---------------------------------------------------------------
-脚本说明:
+文件说明:
+README.md : 说明文件
+INSTALL   : 安装说明
+TODO      : 计划功能
+MANUAL    : 使用说明
+install.sh: 安装脚本
 
-使用说明:
+ssh_tunnel_start.sh : SSH Tunnel 启动控制脚本
+ssh_tunnel_stop.sh  : SSH Tunnel 停止控制脚本
+ssh_tunnel.conf     : SSH Tunnel 启动配置文件
 
+---------------------------------------------------------------
+阅读顺序:
+首先阅读 MANUAL 使用说明
