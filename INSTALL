@@ -1,11 +1,20 @@
 安装流程:
 
-
+### 压缩包安装
 #1. 解压缩发布数据
 tar zxpf rayeye001-xxx.bz2  
-
 #2. 进入目录
 cd rayeye001
-
 #3. 安装文件
 ./install.sh
+
+
+### github zip 下载安装
+#1. https://github.com/iceflow/rayeye001 download zip 获取 rayeye001-master.zip
+#2. 放置  rayeye001-master.zip 到目标客户端
+#3. 解压缩
+    $ unzip rayeye001-master.zip
+#4. 进入目录
+    $ cd rayeye001-master
+#5. 安装文件
+    $ ./install.sh
